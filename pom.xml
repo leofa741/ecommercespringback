@@ -10,6 +10,7 @@
 	</parent>
 	<groupId>com.lfa.ecomerce-app</groupId>
 	<artifactId>ecomerce-spring-java</artifactId>
+	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>ecomerce-spring-java</name>
 	<description>Demo project for Spring Boot</description>
